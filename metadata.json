@@ -1,0 +1,6 @@
+{
+  "name": "ScanVault",
+  "description": "Document scanner, OCR, ID card digitization, e-signature, multi-format export, and password-protected PDF utility.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
